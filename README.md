@@ -1,4 +1,4 @@
-# Password-Strngth-checker
+# Password-Strength-Checker
 this porgram checksthe strength of an inputed password
 
 
